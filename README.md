@@ -1,4 +1,4 @@
-# forks-browser
+It's application according to the test task for GitHub forks browsing . [Live demo](https://fork-browser.herokuapp.com/).
 
 ## Project setup
 ```
